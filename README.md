@@ -1,3 +1,2 @@
 # github-fork
-Hello, i'm shinta5. This is readme from upstream 
-repository
+Hello, i'm shinta5. This is readme from fork repository
